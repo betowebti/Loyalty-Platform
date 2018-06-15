@@ -2,4 +2,4 @@
 
 Digital coupon creator for marketers.
 
-https://nowsquare.com/loyalty-platform/documentation/v2
+https://www2.nowsquare.com/loyalty-platform/documentation/v2
